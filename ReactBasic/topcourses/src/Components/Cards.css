@@ -1,0 +1,8 @@
+.cards-container{
+  width:90%;
+  margin:auto;
+  display:grid;
+  grid-template-columns:repeat(auto-fit,minmax(300px,1fr));
+  gap:22px;
+  padding-bottom:40px;
+}
